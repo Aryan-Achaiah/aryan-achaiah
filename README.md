@@ -7,7 +7,7 @@
 </p>
 
 
-# 💫 About Me:
+#  About Me:
 I'm an engineering undergrad who loves to build cool web applications and innovative IoT solutions!
 
 ⚡FUN FACT- I'm smart, but lazy!
