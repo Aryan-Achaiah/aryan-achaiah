@@ -22,7 +22,7 @@ I'm an engineering undergrad who loves to build cool web applications and innova
 ![](https://nirzak-streak-stats.vercel.app/?user=Aryan-Achaiah&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Achaiah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
