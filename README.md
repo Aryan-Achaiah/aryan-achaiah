@@ -3,7 +3,7 @@ I'm an engineering undergrad who lovees to build cool web applications and innov
 
 ⚡FUN FACT- I'm smart, but lazy
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_achaiah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-p-v) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanachaiah@gmail.com) 
 
 # 💻 Tech Stack:
