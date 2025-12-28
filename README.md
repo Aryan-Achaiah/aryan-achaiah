@@ -1,7 +1,16 @@
-# 💫 About Me:
-I'm an engineering undergrad who lovees to build cool web applications and innovative IoT solutions!
+<h1 align="center">Hey, I'm Aryan!</h1>
 
-⚡FUN FACT- I'm smart, but lazy
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;IoT+Enthusiast;Building+Cool+Tech+Solutions;Always+Learning+New+Things" />
+  </a>
+</p>
+
+
+# 💫 About Me:
+I'm an engineering undergrad who loves to build cool web applications and innovative IoT solutions!
+
+⚡FUN FACT- I'm smart, but lazy!
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_achaiah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-p-v) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanachaiah@gmail.com) 
